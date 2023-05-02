@@ -1,0 +1,1 @@
+body{margin:0;display:flex;justify-content:center;align-items:center;height:100vh;background:linear-gradient(to top right,#004dac,#45a0fc,#276197,#1f5186,#1c62a8);background-size:600% 600%;animation:gradient 10s ease infinite}@keyframes gradient{0%{background-position:0% 50%}50%{background-position:100% 50%}to{background-position:0% 50%}}
