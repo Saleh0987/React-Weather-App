@@ -3,9 +3,9 @@ The app may use APIs to retrieve weather data from online sources and display it
 
 ## technologies
 - React
--  styled-components
--  vitejs 
--  axios-react
+- styled-components
+- vitejs 
+- axios-react
 
 # Link
 https://wheather-app23.netlify.app/
